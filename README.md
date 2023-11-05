@@ -34,7 +34,8 @@ The data analysis is divided into three sections:
 
 ### Section A: Rating Analysis
 In this section, the focus is on restaurant ratings, examining areas, weighted average ratings, highest and lowest-rated areas, and the percentage of highly-rated restaurants. Weighted average ratings provide a fair assessment of restaurant performance, aiding both diners and restaurant owners in making informed decisions. The analysis highlights regions with exceptional dining experiences, helping both diners and restaurant owners identify standout areas.
-*Note: We used weighted averages in our analysis because they provide a more accurate representation of a restaurant's rating, taking into account the varying number of ratings ("num_ratings") that each restaurant received. This approach ensures that restaurants with more ratings have a proportionally higher influence on the overall rating, helping diners make more informed choices and aiding restaurant owners in assessing their performance.*
+
+*(Note: We used weighted averages in our analysis because they provide a more accurate representation of a restaurant's rating, taking into account the varying number of ratings ("num_ratings") that each restaurant received. This approach ensures that restaurants with more ratings have a proportionally higher influence on the overall rating, helping diners make more informed choices and aiding restaurant owners in assessing their performance.)*
 
 ### Section B: Online Orders and Table Bookings
 The second section explores the availability of online orders and table bookings across different areas. The analysis includes the number of restaurants offering these services, areas with both online orders and table bookings
